@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/check-password-strength/static/css/main.f155ec92.css",
+    "main.js": "/check-password-strength/static/js/main.60d9689a.js",
+    "static/media/hidePasswordIcon.svg": "/check-password-strength/static/media/hidePasswordIcon.143731cc9570d65afd6d1a6f68f32aa2.svg",
+    "static/media/lockIcon.svg": "/check-password-strength/static/media/lockIcon.0d075da681aece4dae47f74286281a55.svg",
+    "static/media/showPasswordIcon.svg": "/check-password-strength/static/media/showPasswordIcon.4efc46b7b12d2104791e87e1a7efec99.svg",
+    "index.html": "/check-password-strength/index.html",
+    "main.f155ec92.css.map": "/check-password-strength/static/css/main.f155ec92.css.map",
+    "main.60d9689a.js.map": "/check-password-strength/static/js/main.60d9689a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f155ec92.css",
+    "static/js/main.60d9689a.js"
+  ]
+}
